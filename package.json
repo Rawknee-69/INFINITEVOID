@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.14.0",
+    "fs": "^0.0.1-security",
+    "indomitable": "^2.0.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quickmongo": "^5.2.0"
+  },
+  "name": "raw-security",
+  "version": "1.0.0",
+  "description": "A well developed bot by fuckin up brain and now online to protect servers",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rawknee-69/"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "antinuk",
+    "security",
+    "advanced",
+    "overpowered",
+    "bot"
+  ],
+  "author": "Rawknee.69",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rawknee-69/"
+  },
+  "homepage": "https://github.com/Rawknee-69/"
+}
